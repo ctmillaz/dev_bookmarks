@@ -1,6 +1,5 @@
 <!DOCTYPE NETSCAPE-Bookmark-file-1>
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
-<TITLE>Bookmarks</TITLE>
 <H1>Bookmarks</H1>
 <DL><p>
     <DT><H3 ADD_DATE="1534441967" LAST_MODIFIED="1539280407" PERSONAL_TOOLBAR_FOLDER="true">Bookmarks bar</H3>
